@@ -1,0 +1,12 @@
+<div class="slider">
+  		<img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide1.png" style="margin-left: 11%;
+    padding-top: 6px;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide2.png" style="margin-left: 5%;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide3.png" style="margin-left: 5%;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide4.png" style="margin-left: 5%;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide5.png" style="margin-left: 5%;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide6.png" style="margin-left: 5%;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide7.png" style="margin-left: 5%;">
+    <img src="C:\Users\owais\Documents\Owais\Geeksroot Development\slide8.png" style="margin-left: 5%;">
+    
+  	</div>
